@@ -8,8 +8,4 @@
 	html {
 		@apply scroll-smooth;
 	}
-
-	body {
-		@apply font-ubuntu text-blue-800 antialiased;
-	}
 }
